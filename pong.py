@@ -14,9 +14,9 @@ class PaddleLeft:
 
 #Main loop
 
-active = True
+activeThing = true
 
-while(active):
+while(activeThing):
     window.update()
 
 #Classes for the game elements
