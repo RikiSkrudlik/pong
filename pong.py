@@ -9,8 +9,9 @@ window.setup(height = 800, width = 800)
 window.tracer(0)
 
 class PaddleLeft:
-    def __innit__(self, x):
+    def __innit__(self, x, y):
         self.x = x
+        self.y = y
 
 #Main loop
 
