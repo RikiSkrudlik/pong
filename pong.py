@@ -1,4 +1,4 @@
-# Basic pong game 
+# Basic pong game chunky movement
 
 import turtle as tl
 import random
